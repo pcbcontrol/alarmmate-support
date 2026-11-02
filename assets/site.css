@@ -6,3 +6,6 @@
 @media print{.site-header,.site-footer,.toc,.skip-link{display:none}.container{max-width:none;padding:0}.page-heading{padding-top:0}.document-layout{display:block}.prose{max-width:none}.prose section{break-inside:avoid}body{font-size:11pt;color:#000}a{color:#000}}
 
 nav{flex-wrap:wrap}.card:last-child:nth-child(odd){grid-column:1/-1}
+
+.hero{padding:52px 0 40px;max-width:950px}.hero .eyebrow{margin-bottom:12px}.hero h1{margin-bottom:22px}.use-notice{padding:24px 28px;background:#e8f3f1;border:1px solid #bdd9d4;border-left:5px solid var(--accent);border-radius:10px;color:var(--ink)}.use-notice h2{font-size:clamp(1.1rem,2.2vw,1.35rem);line-height:1.45;letter-spacing:-.015em;margin:0 0 14px}.notice-summary{font-size:16px;line-height:1.6;margin:0 0 16px}.notice-action{font-size:16px;line-height:1.5;margin:0}.notice-action a{font-weight:650;display:inline-block;padding:2px 0}
+@media(max-width:650px){.hero{padding:28px 0 28px}.hero h1{font-size:clamp(2rem,8.4vw,2.65rem);margin-bottom:18px}.use-notice{padding:19px 20px}.notice-summary{line-height:1.55}.notice-action{font-size:15px}}
