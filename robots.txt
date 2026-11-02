@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pcbcontrol.github.io/alarmmate-support/sitemap.xml
