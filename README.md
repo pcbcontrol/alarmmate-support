@@ -1,14 +1,18 @@
-# AlarmMate privacy and support
+# AlarmMate Sensors privacy, use and support
 
-Public static website for the AlarmMate app for iOS. The app keeps connection diagnostics local, with clearing available and diagnostic export/sharing disabled. History export is a separate feature and remains available.
+Public static website for AlarmMate Sensors (AlarmMate) for iOS, intended for academic use, learning and sensor experiments. Connection diagnostics stay local, with clearing available and diagnostic export/sharing disabled. History export is a separate feature and remains available.
 
 - Website: https://pcbcontrol.github.io/alarmmate-support/
 - Privacy policy (English): https://pcbcontrol.github.io/alarmmate-support/privacy/
 - Política de privacitat (català): https://pcbcontrol.github.io/alarmmate-support/ca/privacitat/
+- Use, safety and limitations: https://pcbcontrol.github.io/alarmmate-support/usage/
+- Ús, seguretat i limitacions: https://pcbcontrol.github.io/alarmmate-support/ca/us/
 - Support: https://pcbcontrol.github.io/alarmmate-support/support/
 - Suport: https://pcbcontrol.github.io/alarmmate-support/ca/suport/
 
 Responsible person: Francesc Roig. Contact: mutton-purge1s@icloud.com.
+
+The intended-use notice explains academic use and operating risks. It supplements the applicable licence and preserves mandatory rights; it does not establish a custom EULA or guarantee an exemption from liability. The standard reference is Apple's Licensed Application End User License Agreement: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
 GitHub Pages publishes the `main` branch root. The website uses HTML and CSS with no scripts, external fonts, analytics, forms, or advertising. `.nojekyll` enables direct static publishing.
 
