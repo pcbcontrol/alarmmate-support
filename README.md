@@ -7,7 +7,7 @@ Public static website for AlarmMate Sensors (AlarmMate) for iOS, intended for ac
 - Use, safety and limitations: https://pcbcontrol.github.io/alarmmate-support/usage/
 - Support: https://pcbcontrol.github.io/alarmmate-support/support/
 
-Responsible person: Francesc Roig. Contact: mutton-purge1s@icloud.com.
+Responsible person: Francesc Roig. [Contact support](https://pcbcontrol.github.io/alarmmate-support/support/).
 
 The intended-use notice explains academic use and operating risks. It supplements the applicable licence and preserves mandatory rights; it does not establish a custom EULA or guarantee an exemption from liability. The standard reference is Apple's Licensed Application End User License Agreement: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
